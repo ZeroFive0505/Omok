@@ -1,0 +1,3 @@
+﻿  omok.cpp
+c:\users\admin\source\omok\omok\omok\omok.cpp(13): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Omok.vcxproj -> C:\Users\Admin\source\Omok\Omok\Debug\Omok.exe
